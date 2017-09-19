@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MonumentDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Monument">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adress" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="3500" FixedLength="false" Unicode="true" />
+    <Property Name="main_photo_path" Type="String" MaxLength="350" FixedLength="false" Unicode="true" />
+    <Property Name="sub_photo_path" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="likes" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="MonumentDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Monuments" EntityType="Self.Monument" />
+  </EntityContainer>
+</Schema>

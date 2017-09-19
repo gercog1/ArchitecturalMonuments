@@ -1,0 +1,177 @@
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.exe
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.exe.config
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.rsp
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csi.exe
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csi.rsp
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.AppContext.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.IO.FileSystem.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.exe
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.exe.config
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.rsp
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\VBCSCompiler.exe
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.dll.config
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.pdb
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.SqlServer.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Helpers.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Mvc.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Razor.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Deployment.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Razor.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.SqlServer.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Razor.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Deployment.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Razor.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Helpers.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Mvc.xml
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\EntityFramework.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Razor.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.Deployment.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.Razor.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Helpers.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Mvc.resources.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.csprojResolveAssemblyReference.cache
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.dll
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.pdb
+c:\users\gercog\documents\visual studio 2017\Projects\ArchitectureMonuments\ArchitectureMonuments\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.exe
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.exe.config
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.rsp
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csi.exe
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csi.rsp
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.AppContext.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Collections.Immutable.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.IO.FileSystem.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Reflection.Metadata.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.exe
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.exe.config
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.rsp
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\VBCSCompiler.exe
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\VBCSCompiler.exe.config
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.dll.config
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.pdb
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.SqlServer.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.Web.Infrastructure.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Helpers.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Mvc.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Razor.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Deployment.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Razor.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.SqlServer.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Razor.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Deployment.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Razor.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Helpers.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Mvc.xml
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\EntityFramework.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Razor.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Helpers.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Mvc.resources.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.csprojResolveAssemblyReference.cache
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.dll
+D:\archmon\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.pdb
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.exe
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.exe.config
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csc.rsp
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csi.exe
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\csi.rsp
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.AppContext.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Collections.Immutable.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.IO.FileSystem.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\System.Reflection.Metadata.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.exe
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.exe.config
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\vbc.rsp
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\VBCSCompiler.exe
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\roslyn\VBCSCompiler.exe.config
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.dll.config
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ArchitectureMonuments.pdb
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.SqlServer.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.Web.Infrastructure.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Helpers.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Mvc.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Razor.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Deployment.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Razor.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\EntityFramework.SqlServer.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Razor.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Deployment.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Webpages.Razor.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Helpers.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\System.Web.Mvc.xml
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\EntityFramework.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Razor.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Helpers.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\bin\ru\System.Web.Mvc.resources.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.csprojResolveAssemblyReference.cache
+D:\City\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.dll
+D:\City\ArchitectureMonuments\ArchitectureMonuments\obj\Debug\ArchitectureMonuments.pdb

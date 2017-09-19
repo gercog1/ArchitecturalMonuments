@@ -1,0 +1,115 @@
+﻿@model IEnumerable<ArchitectureMonuments.Models.Monument>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="ru">
+<!--<![endif]-->
+
+<head>
+
+    <meta charset="utf-8">
+
+    <title>Заголовок</title>
+    <meta name="description" content="">
+
+
+    <!-- Header CSS (First Sections of Website: paste after release from _header.min.css here) -->
+    <style></style>
+
+    <!-- Load Main CSS Compilled without JS -->
+        
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <link rel="stylesheet" href="~/Content/css/details.css">
+    <link rel="stylesheet" href="~/Content/css/monuments.css">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Scripts/mapconfig.js" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <link rel="shortcut icon" href="~/Contentimg/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="~/Contentimg/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="~/Contentimg/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="~/Contentimg/favicon/apple-touch-icon-114x114.png">
+
+</head>
+
+<body>
+
+    
+
+        <div id="modDialog" class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  >
+            <div class="modal-dialog modal-lg" style="width:1080px">
+                <div id="dialogContent" class="modal-content" width="1080">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="background">
+                    <div class="menu-line clearfix">
+                        <div class="col-md-1">
+                            <a href="#" class="logo"><img src="~/Content/img/logo.png" alt="logo"></a>
+                        </div>
+                        <div class="col-md-10 ">
+                            <nav class="main-menu">
+                                <ul>
+                                    <li class"active"><a href="@Url.Action("Index","Monument")">головна</a></li>
+                                    <li><a href="#">екскурсії</a></li>
+                                    <li><a href="@Url.Action("MonumentView","Monument")">пам'ятки</a></li>
+                                              
+                                    <li><a href="#">допомога</a></li>
+                                    <li><a href="#">інформація</a></li>
+                                    <li><a href="#">контакти</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-md-offset-1">
+                        <div href="#" class="text">lviv architectural monuments</div>
+                    </div>
+                    <div class="col-md-8 col-md-offset-2">
+                        <form class="searchthis" action="/search" method="get">
+                            <input class="namanyay-search-box" name="q" size="40" type="text" placeholder="Введіть пам'ятку..." />
+                            <input class="namanyay-search-btn" value="Пошук" type="submit" />
+                        </form>
+                    </div>
+                    
+                </div>
+                @RenderBody()
+            </div>
+        </div>
+
+
+  
+    <div class="hidden"></div>
+
+   
+
+
+    <script type="text/javascript">
+
+        $(function () {
+            $.ajaxSetup({ cache: false });
+            $(".compItem").click(function (e) {
+
+                e.preventDefault();
+                $.get(this.href, function (data) {
+                    $('#dialogContent').html(data);
+                    $('#modDialog').modal('show');
+                });
+            });
+        })
+    </script>
+ 
+</body>
+</html>
+

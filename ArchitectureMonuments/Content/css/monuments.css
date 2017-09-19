@@ -1,0 +1,168 @@
+﻿.main-menu > ul > li > a, .text {
+    text-transform: uppercase
+}
+
+.main-menu > ul > li > a, .namanyay-search-btn, .text {
+    color: #fff;
+    text-decoration: none
+}
+
+.circlee1, .main-menu, .name, .opis, .text {
+    text-align: center
+}
+
+body {
+    position: relative
+}
+
+.main-menu > ul > li > a, .namanyay-search-btn, .numoflikes, .text {
+    text-decoration: none
+}
+
+@font-face {
+    font-family: RobotoRegular;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"),url(../fonts/RobotoRegular/RobotoRegular.woff) format("woff"),url(../fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")
+}
+
+body {
+    font-size: 16px;
+    min-width: 320px;
+    line-height: 1.6;
+    font-family: RobotoRegular,sans-serif;
+    overflow-x: hidden
+}
+
+.hidden {
+    display: none
+}
+
+.background {
+    background-image: url(../img/background1.jpg);
+    width: 1920px;
+    height: 450px;
+    background-size: cover;
+    background-position: top center;
+    overflow: hiiden;
+}
+
+.logo {
+    display: block;
+    margin-right: 50px;
+    display: block;
+    width: 100px;
+    height: 200px
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0
+}
+
+nav li {
+    display: inline-block
+}
+
+.main-menu > ul > li > a {
+    display: block;
+    padding: 15px 15px 15px 20px;
+    
+    margin: 40px;
+    font-size: 25px;
+    line-height: 40px;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+    cursor: pointer
+}
+
+    .main-menu > ul > li > a:hover {
+        background: #45a743
+    }
+
+.text {
+    display: block;
+    font-size: 80px
+}
+
+.name, .numoflikes {
+    font-size: 20px;
+    font-weight: 700
+}
+
+.searchthis {
+    display: block;
+    padding: 25px 80px 80px
+}
+
+.namanyay-search-btn {
+    background: #45a743;
+    width: 90px;
+    padding: 15px;
+    border: 0;
+    font-weight: 700
+}
+
+.namanyay-search-box {
+    background: #eee;
+    padding: 15px;
+    border: 0;
+    width: 960px;
+    width-text-decoration: none;
+}
+
+
+
+.circlee1, .like, .name, .opis {
+    display: block
+}
+
+.rectangle {
+    display: block;
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    -webkit-box-shadow: 21px 16px 19px -2px #ccc;
+    box-shadow: 21px 16px 19px -2px #ccc
+}
+
+.circlee1 {
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease
+}
+
+    .circlee1 > img {
+        border: 2px;
+        background: #45a743;
+        -webkit-border-radius: 100px;
+        border-radius: 100px
+    }
+
+.opis {
+    width: 260px;
+    height: 100px;
+    margin: 5px
+}
+
+.like {
+    
+    
+    width: 25px;
+    height: 25px;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+
+.numoflikes {
+    display: inline-block;
+    position: absolute;
+    color: #000;
+    padding-left: 5px
+}
+
+.space {
+    width: 100%;
+    height: 50px;
+}
+

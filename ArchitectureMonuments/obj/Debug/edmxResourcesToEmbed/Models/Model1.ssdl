@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище MonumentDBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Monuments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="adress" Type="nvarchar" MaxLength="150" />
+    <Property Name="description" Type="nvarchar" MaxLength="3500" />
+    <Property Name="main_photo_path" Type="nvarchar" MaxLength="350" />
+    <Property Name="sub_photo_path" Type="nvarchar" MaxLength="1000" />
+    <Property Name="likes" Type="int" />
+  </EntityType>
+  <EntityContainer Name="Хранилище MonumentDBModelContainer">
+    <EntitySet Name="Monuments" EntityType="Self.Monuments" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

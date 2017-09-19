@@ -1,0 +1,124 @@
+﻿@model IEnumerable<ArchitectureMonuments.Models.Monument>
+@{
+    Layout = "/Views/MasterPage.cshtml";
+}
+
+<div class="rectangles">
+    @{
+        var tblTestList = Model.ToList();
+        for (var i = 0; i < tblTestList.Count(); i += 5)
+
+        {
+            
+            <div class="col-md-2 col-md-offset-1">
+                <div class="rectangle">
+                    <div class="circle1">
+                        <a href="#" class="circlee1">
+                            <img src="@tblTestList[i].main_photo_path" alt="circle" width="200" height="200">
+                        </a>
+                    </div>
+                    <div class="name">@tblTestList[i].name</div>
+                    <div class="opis">
+                        <p>
+                            @tblTestList[i].description.Remove(tblTestList[i].description.IndexOf('.'))...<br /><br />
+
+                            @Html.ActionLink("Детальніше", "Details", new { id = tblTestList[i].Id }, new { @class = "compItem" })
+                        </p>
+                </div>
+                    <a href="#" class="like">
+                        <img src="~/Content/img/like.svg" alt="like"><span class="numoflikes">@tblTestList[i].likes</span>
+                    </a>
+            </div>
+        </div>
+                            <div class="col-md-2">
+                                <div class="rectangle">
+                                    <div class="circle1">
+                                        <a href="#" class="circlee1">
+                                            <img src="@tblTestList[i+1].main_photo_path" alt="circle" width="200" height="200">
+                                        </a>
+                                    </div>
+                                    <div class="name">@tblTestList[i + 1].name</div>
+                                    <div class="opis">
+                                        <p>
+                                            @tblTestList[i + 1].description.Remove(tblTestList[i + 1].description.IndexOf('.'))...<br /><br />
+
+                                            @Html.ActionLink("Детальніше", "Details", new { id = tblTestList[i + 1].Id }, new { @class = "compItem" })
+                                        </p>
+                                    </div>
+                                    <div class="likeposition">
+                                        <a href="#" class="like">
+                                            <img src="~/Content/img/like.svg" alt="like"><span class="numoflikes">@tblTestList[i + 1].likes</span>
+                                        </a>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-2">
+                                <div class="rectangle">
+                                    <div class="circle1">
+                                        <a href="#" class="circlee1">
+                                            <img src="@tblTestList[i+2].main_photo_path" alt="circle" width="200" height="200">
+                                        </a>
+                                    </div>
+                                    <div class="name">@tblTestList[i + 2].name</div>
+                                    <div class="opis">
+                                        <p>
+                                            @tblTestList[i + 2].description.Remove(tblTestList[i + 2].description.IndexOf('.'))...<br /><br />
+
+                                            @Html.ActionLink("Детальніше", "Details", new { id = tblTestList[i + 2].Id }, new { @class = "compItem" })
+                                        </p>
+                                    </div>
+                                    <a href="#" class="like">
+                                        <img src="~/Content/img/like.svg" alt="like"><span class="numoflikes">@tblTestList[i+2].likes</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="rectangle">
+                                    <div class="circle1">
+                                        <a href="#" class="circlee1">
+                                            <img src="@tblTestList[i+3].main_photo_path" alt="circle" width="200" height="200">
+                                        </a>
+                                    </div>
+                                    <div class="name">@tblTestList[i + 3].name</div>
+                                    <div class="opis">
+                                        <p>
+                                            @tblTestList[i + 3].description.Remove(tblTestList[i + 3].description.IndexOf('.'))...<br /><br />
+
+                                            @Html.ActionLink("Детальніше", "Details", new { id = tblTestList[i + 3].Id }, new { @class = "compItem" })
+                                        </p>
+                                    </div>
+                                    <a href="#" class="like">
+                                        <img src="~/Content/img/like.svg" alt="like"><span class="numoflikes">@tblTestList[i+3].likes</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                                <div class="rectangle">
+                                    <div class="circle1">
+                                        <a href="#" class="circlee1">
+                                            <img src="@tblTestList[i+4].main_photo_path" alt="circle" width="200" height="200">
+                                        </a>
+                                    </div>
+                                    <div class="name">@tblTestList[i + 4].name</div>
+                                    <div class="opis">
+                                        <p>
+                                            @tblTestList[i + 4].description.Remove(tblTestList[i + 4].description.IndexOf('.'))...<br /><br />
+
+                                            @Html.ActionLink("Детальніше", "Details", new { id = tblTestList[i + 4].Id }, new { @class = "compItem" })
+                                        </p>
+                                    </div>
+                                    <a href="#" class="like">
+                                        <img src="~/Content/img/like.svg" alt="like"><span class="numoflikes">@tblTestList[i+4].likes</span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="space"></div>
+                            </div>
+        }
+    }
+</div>
+
+
+

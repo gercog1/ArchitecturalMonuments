@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище MonumentDBModelContainer" CdmEntityContainer="MonumentDBEntities">
+    <EntitySetMapping Name="Monuments">
+      <EntityTypeMapping TypeName="MonumentDBModel.Monument">
+        <MappingFragment StoreEntitySet="Monuments">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="main_photo_path" ColumnName="main_photo_path" />
+          <ScalarProperty Name="sub_photo_path" ColumnName="sub_photo_path" />
+          <ScalarProperty Name="likes" ColumnName="likes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
